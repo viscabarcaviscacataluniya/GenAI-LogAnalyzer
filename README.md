@@ -25,7 +25,7 @@ Python Libraries: boto3, LangChain, Streamlit
 Clone the repository:
 
 bash
-git clone https://github.com/viscabarcavuscacataluniya/GenAI_LogAnalyzer.git
+git clone https://github.com/viscabarcaviscacataluniya/GenAI-LogAnalyzer
 Navigate into the project directory:
 
 bash
